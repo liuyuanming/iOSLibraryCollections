@@ -55,3 +55,4 @@ iOS最全第三方库收集
   [13]: http://www.jianshu.com/p/06753d40d3d9?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weibo
   [14]: http://www.code4app.com/forum.php?mod=viewthread&tid=7768&page=1&extra=#pid34884
   [15]: https://github.com/dkhamsing/open-source-ios-apps
+  [16]: http://www.devstore.cn/essay/essayInfo/6485.html
