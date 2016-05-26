@@ -18,26 +18,27 @@ iOS最全第三方库收集       ###以后会逐步更新和整理
 [iOS 网络资源汇总之UI][8]
 
 [iOS学习资源系列][9]
+[iOS开源库-豆瓣收集][10]
 
 ================Swift部分================
 
-[fir.im Weekly - 这是一份强大的 SwiftGuide][10]
+[fir.im Weekly - 这是一份强大的 SwiftGuide][11]
 
-[Swift开源库、开源Apps等超全资源整合网站][11]
+[Swift开源库、开源Apps等超全资源整合网站][12]
 
-[Swift 必备开发库 (高级篇)][12]
+[Swift 必备开发库 (高级篇)][13]
 
 ================开源APP================
 
-[Github上的iOS App源码 (中文)][13]
+[Github上的iOS App源码 (中文)][14]
 
-[史上最全iOS 开发工具集合][14]
+[史上最全iOS 开发工具集合][15]
 
-[open-source-ios-apps][15]
+[open-source-ios-apps][16]
 
 =======GitHub 排名前100 的安卓、iOS项目简介=======
 
-[GitHub 排名前100 的安卓、iOS项目简介][16]
+[GitHub 排名前100 的安卓、iOS项目简介][17]
 
 
   [1]: https://github.com/liuyuanming/TimLiu-iOS
@@ -49,10 +50,11 @@ iOS最全第三方库收集       ###以后会逐步更新和整理
   [7]: http://www.jianshu.com/p/d70041eb25d7?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
   [8]: http://www.jianshu.com/p/2ba717122951?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
   [9]: http://www.shavekevin.com/2016/04/06/iosxuexiziyuanyi
-  [10]: http://blog.fir.im/fir_im_weekly160512/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-  [11]: http://www.ioscookies.com
-  [12]: http://www.jianshu.com/p/f38f1882dcc7?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-  [13]: http://www.jianshu.com/p/06753d40d3d9?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weibo
-  [14]: http://www.code4app.com/forum.php?mod=viewthread&tid=7768&page=1&extra=#pid34884
-  [15]: https://github.com/dkhamsing/open-source-ios-apps
-  [16]: http://www.devstore.cn/essay/essayInfo/6485.html
+  [10]: https://www.douban.com/note/276160185/?type=like
+  [11]: http://blog.fir.im/fir_im_weekly160512/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+  [12]: http://www.ioscookies.com
+  [13]: http://www.jianshu.com/p/f38f1882dcc7?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+  [14]: http://www.jianshu.com/p/06753d40d3d9?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weibo
+  [15]: http://www.code4app.com/forum.php?mod=viewthread&tid=7768&page=1&extra=#pid34884
+  [16]: https://github.com/dkhamsing/open-source-ios-apps
+  [17]: http://www.devstore.cn/essay/essayInfo/6485.html
