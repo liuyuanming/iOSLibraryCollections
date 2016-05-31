@@ -8,7 +8,7 @@ iOS最全第三方库收集，以后会逐步更新和整理。有资源的伙�
 
 [分类列表库-github之ibireme][3]
 
-[分类列表库-简书之DXSmile][4]
+[分类列表库-Aufree之trip-to-iOS][4]
 
 [分类列表库-wiki之talisk][5]
 
@@ -45,7 +45,7 @@ iOS最全第三方库收集，以后会逐步更新和整理。有资源的伙�
   [1]: https://github.com/liuyuanming/TimLiu-iOS
   [2]: http://ios.jobbole.com/84684/
   [3]: http://github.ibireme.com/github/list/ios/
-  [4]: http://www.jianshu.com/p/5765e9dba738?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo
+  [4]: https://github.com/Aufree/trip-to-iOS
   [5]: http://wiki.talisk.cn/iOS/iOS%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E5%BA%93.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
   [6]: https://github.com/liuyuanming/awesome-ios-cn
   [7]: http://www.jianshu.com/p/d70041eb25d7?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
