@@ -49,6 +49,7 @@ iOS最全第三方库收集，以后会逐步更新和整理。有资源的伙�
 =======GitHub 排名前100 的安卓、iOS项目简介=======
 
 [GitHub 排名前100 的安卓、iOS项目简介][20]
+
 [GitHub前50名的Objective-C动画相关库][21]
 
 
@@ -72,3 +73,4 @@ iOS最全第三方库收集，以后会逐步更新和整理。有资源的伙�
   [18]: http://www.henishuo.com/ios-app-fully-code/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
   [19]: https://www.zhihu.com/question/28518265/answer/88750562
   [20]: http://www.devstore.cn/essay/essayInfo/6485.html
+  [21]: http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652545591&idx=1&sn=88967524c1b2c4f008ca6f84454ebfab&scene=23&srcid=0603oZQh7Cn8BJgZuNby6518#rd
