@@ -49,6 +49,7 @@ iOS最全第三方库收集，以后会逐步更新和整理。有资源的伙�
 =======GitHub 排名前100 的安卓、iOS项目简介=======
 
 [GitHub 排名前100 的安卓、iOS项目简介][20]
+[GitHub前50名的Objective-C动画相关库][21]
 
 
   [1]: https://github.com/liuyuanming/TimLiu-iOS
